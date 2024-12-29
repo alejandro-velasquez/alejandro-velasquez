@@ -17,6 +17,9 @@ Soy un **desarrollador backend** con bases sólidas en frontend. Me apasiona cre
 
 ---
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+
 ## 📫 ¿Cómo contactarme?
 - **Correo**: alejandroalzate.ava@gmail.com
 - **LinkedIn**: [linkedin.com/in/alejandrovelasquez](https://www.linkedin.com/in/alejandro-velasquez-alzate-b5a63b324/)
