@@ -72,11 +72,6 @@
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-1. [**Gestión de Empleados**](https://github.com/alejandro-velasquez/gestion-empleados): Una aplicación para gestionar empleados utilizando Java y Spring Boot.
-
-
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=alejandro-velasquez&show_icons=true&theme=tokyonight" alt="GitHub Stats">
@@ -86,6 +81,19 @@
 
 ---
 
+<h3 align="center" >Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/alejandro-velasquez-alzate-b5a63b324/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:alejandroalzate.ava@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
+</p>
+
 <h2>📫 How to Reach Me</h2>
 - **Email**: alejandroalzate.ava@gmail.com  
-- **LinkedIn**: [linkedin.com/in/alejandrovelasquez](https://www.linkedin.com/in/alejandro-velasquez-alzate-b5a63b324/)
+- **LinkedIn**: [linkedin.com/in/alejandrovelasquez]()
