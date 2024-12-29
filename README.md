@@ -16,8 +16,10 @@ Soy un **desarrollador backend** con bases sólidas en frontend. Me apasiona cre
 1. [**Gestión de empleados**](https://github.com/alejandro-velasquez/gestion-empleados): Una aplicación para gestionar empleados utilizando Java y Spring Boot.
 
 ---
+##Estadistica general:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alejandro-velasquez&show_icons=true&theme=tokyonight)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alejandro-velasquez&show_icons=true&theme=radical)
+---
 
 ## Lenguajes mas utilizados:
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-velasquez&layout=compact&theme=radical)
