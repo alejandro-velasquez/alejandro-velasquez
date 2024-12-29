@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alejandro Velásquez
 
-<!--
-**alejandro-velasquez/alejandro-velasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **desarrollador backend** con bases sólidas en frontend. Me apasiona crear soluciones eficientes y escalables utilizando tecnologías modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que manejo:
+- **Backend**: PHP, Java, Spring Boot, Laravel
+- **Frontend**: HTML, CSS, JavaScript
+- **Bases de datos**: MySQL
+- **Herramientas**: Git, Postman, Azure DevOps, Jira 
+
+---
+
+## 🚀 Proyectos destacados:
+1. [**Gestión de empleados**](https://github.com/alejandro-velasquez/gestion-empleados): Una aplicación para gestionar empleados utilizando Java y Spring Boot.
+
+---
+
+## 📫 ¿Cómo contactarme?
+- **Correo**: alejandroalzate.ava@gmail.com
+- **LinkedIn**: [linkedin.com/in/alejandrovelasquez](https://www.linkedin.com/in/alejandro-velasquez-alzate-b5a63b324/)
+
