@@ -94,6 +94,3 @@
 
 </p>
 
-<h2>📫 How to Reach Me</h2>
-- **Email**: alejandroalzate.ava@gmail.com  
-- **LinkedIn**: [linkedin.com/in/alejandrovelasquez]()
