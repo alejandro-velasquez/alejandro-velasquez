@@ -46,6 +46,12 @@
   <a href="https://laravel.com" target="_blank">
     <img src="https://img.shields.io/badge/Laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
   </a>
+   <a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Java-white.svg?style=for-the-badge&logo=java&logoColor=007396" alt="Java">
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://img.shields.io/badge/Spring%20Boot-white.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot">
+</a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/-MySQL-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="MySQL">
   </a>
@@ -55,6 +61,13 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="Postman">
   </a>
+ 
+<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-white.svg?style=for-the-badge&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps">
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://img.shields.io/badge/Jira-white.svg?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira">
+</a>
 </div>
 
 ---
