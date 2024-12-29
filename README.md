@@ -19,6 +19,9 @@ Soy un **desarrollador backend** con bases sólidas en frontend. Me apasiona cre
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alejandro-velasquez&show_icons=true&theme=radical)
 
+## Lenguajes mas utilizados:
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-velasquez&layout=compact&theme=radical)
+
 
 ## 📫 ¿Cómo contactarme?
 - **Correo**: alejandroalzate.ava@gmail.com
